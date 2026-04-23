@@ -59,3 +59,5 @@ In this project, machine learning techniques were successfully applied to predic
 ## Explanation Video
 
 A detailed explanation video is provided below. Please refer to it to understand the project workflow and results
+
+https://drive.google.com/file/d/1vcGT6mVmxkwn862lvVv1EVZB6aC3_dLT/view?usp=sharing
